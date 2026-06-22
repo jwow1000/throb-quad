@@ -12,8 +12,6 @@
 *.sd2
 *.rx2
 *.rex
-
-# PDFs
 *.pdf
 
 # Pure Data
